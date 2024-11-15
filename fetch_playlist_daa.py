@@ -2,7 +2,7 @@ import json
 import googleapiclient.discovery
 
 # Set your API key
-API_KEY = "AIzaSyBc9GkZa27vuZ7BnXThYC_XYkEFH2yt2W8"
+API_KEY = "XXXXXXXXcXXXXXXXXnXThYC_XXXXXXXXX"
 
 def get_playlist_details(playlist_id):
     youtube = googleapiclient.discovery.build("youtube", "v3", developerKey=API_KEY)
@@ -78,7 +78,7 @@ def get_videos_in_playlist(playlist_id):
 
 # Example usage
 if __name__ == "__main__":
-    playlist_id = "PLinedj3B30sCw8Qjrct1DRglx4hWQx83C"
+    playlist_id = "XXXXXXXX30sCw8QjrXXXXXXx4XXXXX83C"
     playlist_info = get_playlist_details(playlist_id)
     videos = get_videos_in_playlist(playlist_id)
 
