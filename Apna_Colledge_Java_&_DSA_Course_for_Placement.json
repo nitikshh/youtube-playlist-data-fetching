@@ -1,0 +1,322 @@
+{
+    "playlist_id": "PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop",
+    "playlist_title": "Java & DSA Course for Placement",
+    "playlist_description": "Topics Covered :\nJava Language required for DSA.\nData Structures and Algorithms covered till Graphs.",
+    "playlist_published_at": "2021-09-01T15:21:25Z",
+    "playlist_item_count": 39,
+    "channel_name": "Apna College",
+    "videos": [
+        {
+            "title": "Introduction to Java Language | Lecture 1 | Complete Placement Course",
+            "videoId": "yRpLlJmRo2w",
+            "likes": "300467",
+            "description": "Are you worried about placements/internships? Want to prepare for companies like Microsoft, Amazon & Google? Join ALPHA.\n\ud83d\udd34 Alpha Placement Batch - https://bit.ly/3ELJjn2\n\nNotes of JAVA LECTURE 1 : https://docs.google.com/document/d/1d4cDG1bAVjvvKLjD9ZPQdJEGsQyGn_UIqCuluVmx5_0/edit?usp=sharing\n\nJoin the Community : https://telegram.me/+k4rdgTPwmm5kMGVl\nInstagram: https://www.instagram.com/dhattarwalaman/",
+            "views": "14203596",
+            "thumbnail": "https://i.ytimg.com/vi/yRpLlJmRo2w/mqdefault.jpg"
+        },
+        {
+            "title": "Variables in Java | Input Output | Complete Placement Course | Lecture 2",
+            "videoId": "LusTv0RlnSU",
+            "likes": "101913",
+            "description": "Are you worried about placements/internships? Want to prepare for companies like Microsoft, Amazon & Google? Join ALPHA.\n\ud83d\udd34 Alpha Placement Batch - https://bit.ly/3ELJjn2\n\n\nNotes & Homework Problems of JAVA LECTURE 2 : https://docs.google.com/document/d/1upllrlSyv1pe86hBbNPUFT1nrmWsr6QPM4joL6Br1gU/edit?usp=sharing\n\nWe have used Intellij as a code editor in this video so that it becomes easy for both VS Code & IntelliJ users to write code. The same code can be run in both editors, so even if you are on VS Code you will not face any problems. From the next video onwards we will be using VS Code.\n\n\nJoin the Community : https://telegram.me/+k4rdgTPwmm5kMGVl\nInstagram: https://www.instagram.com/dhattarwalaman/",
+            "views": "5690352",
+            "thumbnail": "https://i.ytimg.com/vi/LusTv0RlnSU/mqdefault.jpg"
+        },
+        {
+            "title": "Conditional Statements | If-else, Switch Break | Complete Java Placement Course | Lecture 3",
+            "videoId": "I5srDu75h_M",
+            "likes": "54731",
+            "description": "Notes & Homework Problems of JAVA LECTURE 3 : \nhttps://docs.google.com/document/d/1CdBYvB8e5Uen_4r2MFurPVE1tIEZMfrkqi34a674t5k/edit?usp=sharing\nSolution to Homework Problem in Lecture 4's Notes.\n\nAre you worried about placements/internships? Want to prepare for companies like Microsoft, Amazon & Google? Join ALPHA.\n\ud83d\udd34 Alpha Placement Batch - https://bit.ly/3oqidsd\n\ud83d\udd34 ALPHA for International Students - https://buy.stripe.com/cN27sE5Z21xkeRicMN\n(Direct Payment Link)\n\nJoin the Apni Community\ud83d\udd25 : https://telegram.me/+k4rdgTPwmm5kMGVl",
+            "views": "3273308",
+            "thumbnail": "https://i.ytimg.com/vi/I5srDu75h_M/mqdefault.jpg"
+        },
+        {
+            "title": "Loops in Java | Java Placement Full Course | Lecture 4",
+            "videoId": "0r1SfRoLuzU",
+            "likes": "45664",
+            "description": "Links to the NOTES & Homework Qs : https://docs.google.com/document/d/1Jqa2J4-udSiASDrqwH0PeW5L4LT9oDSwAFjkkm0X72E/edit?usp=sharing\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "2721381",
+            "thumbnail": "https://i.ytimg.com/vi/0r1SfRoLuzU/mqdefault.jpg"
+        },
+        {
+            "title": "9 Best Patterns Questions In Java (for Beginners) | Java Placement Course | Lecture 5",
+            "videoId": "GjHNGM7KN3w",
+            "likes": "44509",
+            "description": "Time Stamps for Patterns \nSolid Rectangle & Nested Loops - 00:35\nHollow Rectangle - 10:38\nHalf Pyramid - 18:23\nInverted half Pyramid - 23:47\nInverted & Rotated Half Pyramid - 26:50\nHalf Pyramid with Numbers - 33:45\nInverted Half Pyramid with Numbers - 38:21\nFloyd's Triangle - 44:36\n0-1 Triangle - 48:45\n\n(It is not important to remember the names)\n\nNotes & Homework Problems: https://docs.google.com/document/d/1OrUsnDqzma9ob467aCdvRlZwkK7mhl552n92vlBXr_U/edit?usp=sharing\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "2891790",
+            "thumbnail": "https://i.ytimg.com/vi/GjHNGM7KN3w/mqdefault.jpg"
+        },
+        {
+            "title": "Advanced Pattern Questions | Java | Complete Placement Course - Lecture 6",
+            "videoId": "Dr4PpNa7AYo",
+            "likes": "21660",
+            "description": "Notes of the Lecture : https://docs.google.com/document/d/1uh_l3ifDCfy9ljDgzK1wjaP2Vpz3sEAA4ADHAtbKfJ0/edit?usp=sharing\n\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "1456497",
+            "thumbnail": "https://i.ytimg.com/vi/Dr4PpNa7AYo/mqdefault.jpg"
+        },
+        {
+            "title": "Functions & Methods | Java  Complete Placement Course | Lecture 7",
+            "videoId": "qcSz4ef9UHA",
+            "likes": "30047",
+            "description": "Notes of this Lecture : https://docs.google.com/document/d/1XB2d4kTzhvmMrvYMgy53AzM4q9iDAxQq7pZ69a2IJjs/edit?usp=sharing\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "1905571",
+            "thumbnail": "https://i.ytimg.com/vi/qcSz4ef9UHA/mqdefault.jpg"
+        },
+        {
+            "title": "Functions in Java | Practice Questions | Complete Placement Course | Lecture 8",
+            "videoId": "pFPZ83mgH00",
+            "likes": "10608",
+            "description": "Link to Exercise Questions : https://docs.google.com/document/d/1eEv8JMCr_ZBoE5JSsZxdT5Zq53vq388-EIbE_mi7QME/edit?usp=sharing\n\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "835327",
+            "thumbnail": "https://i.ytimg.com/vi/pFPZ83mgH00/mqdefault.jpg"
+        },
+        {
+            "title": "Basics of Time Complexity and Space Complexity | Java | Complete Placement Course | Lecture 9",
+            "videoId": "bQssdSrSGNE",
+            "likes": "23542",
+            "description": "Solutions of the previous exercise: https://docs.google.com/document/d/1GH4dekttLeTFyTEaowbPyv2ZvyCXnIp1Sbw34NzKBl4/edit?usp=sharing\n\nLink to Notes(Questions will be added tomorrow) : https://docs.google.com/document/d/1uhAM1X_eRR-o6xqLD9Yvs0wgPRSjFn9B1hHdJlJrUTI/edit?usp=sharing\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "1306133",
+            "thumbnail": "https://i.ytimg.com/vi/bQssdSrSGNE/mqdefault.jpg"
+        },
+        {
+            "title": "Arrays Introduction | Java Complete Placement Course | Lecture 10",
+            "videoId": "NTHVTY6w2Co",
+            "likes": "30632",
+            "description": "Link to the Notes of this lecture : https://docs.google.com/document/d/1AJgDc-EdunSKVhW1fujsaZS5JfxSgzFiDlfg35ewhIA/edit?usp=sharing\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "1858532",
+            "thumbnail": "https://i.ytimg.com/vi/NTHVTY6w2Co/mqdefault.jpg"
+        },
+        {
+            "title": "2D Arrays | Java Complete Placement Course | Lecture 11",
+            "videoId": "18Zt5I4S45o",
+            "likes": "19909",
+            "description": "Notes: https://docs.google.com/document/d/1XkI6549bd-qDvcUC88WuOW0ISPfrtm-Tk06pt_I-89I/edit?usp=sharing\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "1153922",
+            "thumbnail": "https://i.ytimg.com/vi/18Zt5I4S45o/mqdefault.jpg"
+        },
+        {
+            "title": "Strings | Lecture 12 | Java Placement Series",
+            "videoId": "vCRD36bG8xQ",
+            "likes": "21743",
+            "description": "Notes to the Lecture : https://docs.google.com/document/d/1Q3rPJ82ep4LYxrqjl8mEjbHCEQAQPUSuJq0bo8hAQ0w/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "1284719",
+            "thumbnail": "https://i.ytimg.com/vi/vCRD36bG8xQ/mqdefault.jpg"
+        },
+        {
+            "title": "String Builder | Java Placement Course Lecture 13",
+            "videoId": "ZLDwskEhIFg",
+            "likes": "15912",
+            "description": "Notes of this lecture : https://docs.google.com/document/d/14XwQZtfkFQhig8qN9q4EHtQozU7D7nxGoI1NG9UYvu8/edit?usp=sharing\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "894416",
+            "thumbnail": "https://i.ytimg.com/vi/ZLDwskEhIFg/mqdefault.jpg"
+        },
+        {
+            "title": "Operators & Binary Number System | Java Lecture 14",
+            "videoId": "Oud4alVQU4s",
+            "likes": "13381",
+            "description": "\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "742943",
+            "thumbnail": "https://i.ytimg.com/vi/Oud4alVQU4s/mqdefault.jpg"
+        },
+        {
+            "title": "Bit Manipulation | Java Placement Course | Lecture 15",
+            "videoId": "OSoO8eCEEC8",
+            "likes": "12243",
+            "description": "Link to Notes : https://docs.google.com/document/d/13GQILgmIV5EcfcrdIciwrxXG8EVFKRy_DvLpFmsJD9c/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "698147",
+            "thumbnail": "https://i.ytimg.com/vi/OSoO8eCEEC8/mqdefault.jpg"
+        },
+        {
+            "title": "Sorting in Java | Bubble Sort, Selection Sort & Insertion Sort | Java Placement Course",
+            "videoId": "PkJIc5tBRUE",
+            "likes": "22248",
+            "description": "Notes of this Lecture : https://docs.google.com/document/d/1ZjI-1uDeUJgCj0Uz60wGOz2wHd163JjWNUmgby0wn-I/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "1379246",
+            "thumbnail": "https://i.ytimg.com/vi/PkJIc5tBRUE/mqdefault.jpg"
+        },
+        {
+            "title": "Recursion in One Shot | Theory + Question Practice + Code | Level 1 - Easy",
+            "videoId": "5Boqfjissv0",
+            "likes": "20851",
+            "description": "Link to the Notes of Class: https://drive.google.com/file/d/1dM-VdXt_U2mtVfrQfvY-B5nUmzXSYqks/view?usp=sharing\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "1310395",
+            "thumbnail": "https://i.ytimg.com/vi/5Boqfjissv0/mqdefault.jpg"
+        },
+        {
+            "title": "Recursion in One Shot | 9 Best Problems",
+            "videoId": "u-HgzgYe8KA",
+            "likes": "14686",
+            "description": "Problems : \n00:05 - Tower of Hanoi\n26:40 - Print string in reverse\n32:06 - Find first & last occurrence of element\n41:11 - Check if the array is sorted (strictly increasing)\n48:59 - Move all 'x' to the end\n56:52 - Remove all duplicates in String\n01:05:50 - Print all subsequences\n01:21:31 - Print all unique subsequences\n01:26:28 - Print Keypad Combinations\n\nCodes in the Video : https://drive.google.com/file/d/1iF3IRGgZXGJshm570KleFQdfGumORi5K/view?usp=sharing\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "1009864",
+            "thumbnail": "https://i.ytimg.com/vi/u-HgzgYe8KA/mqdefault.jpg"
+        },
+        {
+            "title": "Recursion One Shot - Advanced Level Questions | Placement (Tech)",
+            "videoId": "xZykmhcWGuY",
+            "likes": "6142",
+            "description": "Link to the Notes of this lecture : https://docs.google.com/document/d/1e4lvV3VpKYOFOOJgIK3ybTFZPK4zHTHfsyquiY9WakQ/edit?usp=sharing\n\nComplete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\nTelegram: https://t.me/apnikakshaofficial\nInstagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "406756",
+            "thumbnail": "https://i.ytimg.com/vi/xZykmhcWGuY/mqdefault.jpg"
+        },
+        {
+            "title": "Backtracking | N Queens Problem | Permutations |  The Java Placement Course | Apna College |",
+            "videoId": "bRs6E_SL2Tk",
+            "likes": "7473",
+            "description": "Notes of the Lecture : https://docs.google.com/document/d/1YcccD6X67qPPy6EzMbU-IG1GXj6JOKma9mMPVd1JuJM/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\nlist=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "497658",
+            "thumbnail": "https://i.ytimg.com/vi/bRs6E_SL2Tk/mqdefault.jpg"
+        },
+        {
+            "title": "Java Sudoku Solver | Backtracking | Java Placement Course",
+            "videoId": "tRj4VlVTat8",
+            "likes": "6058",
+            "description": "Notes : https://docs.google.com/document/d/1qNh3mBEsqo2Oz-UYQo5HRt0Bm2TQkqQuoa7l7qzg0b0/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "315554",
+            "thumbnail": "https://i.ytimg.com/vi/tRj4VlVTat8/mqdefault.jpg"
+        },
+        {
+            "title": "Merge Sort | For Beginners | Java Placement Course",
+            "videoId": "unxAnJBy12Q",
+            "likes": "11902",
+            "description": "Notes : https://drive.google.com/file/d/1meJu99A8-0O3PRnOqF66vw5lw8wz2MMi/view?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "706864",
+            "thumbnail": "https://i.ytimg.com/vi/unxAnJBy12Q/mqdefault.jpg"
+        },
+        {
+            "title": "Quick Sort For Beginners | Java Placement Course | @ApnaCollegeOfficial",
+            "videoId": "QXum8HQd_l4",
+            "likes": "10928",
+            "description": "Notes : https://drive.google.com/file/d/1-0oe2swbGrQTHmalCAdJEGIjj5ZBVLST/view?usp=sharing\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "612334",
+            "thumbnail": "https://i.ytimg.com/vi/QXum8HQd_l4/mqdefault.jpg"
+        },
+        {
+            "title": "Java OOPs in One Shot | Object Oriented Programming | Java Language | Placement Course",
+            "videoId": "bSrm9RXwBaI",
+            "likes": "82825",
+            "description": "Are you worried about placements/internships? Want to prepare for companies like Microsoft, Amazon & Google? Join ALPHA.\n\ud83d\udd34 Alpha Placement Batch - https://bit.ly/3ELJjn2\n\n\nNotes to this lecture : https://docs.google.com/document/d/1uv9EdLaG9TK7iNcMneLeEaChzvmXU9Xu_Uv5iZwswFk/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/",
+            "views": "4643082",
+            "thumbnail": "https://i.ytimg.com/vi/bSrm9RXwBaI/mqdefault.jpg"
+        },
+        {
+            "title": "ArrayList In Java + Notes | Java Placement Course",
+            "videoId": "liFyhzZl9uw",
+            "likes": "13610",
+            "description": "Operations on ArrayList - 06:40\n\nNotes : https://docs.google.com/document/d/1v2iXC49cKhF2WuJFX5C_MjmXDu4FRv89cqi2u1FFk3A/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "674611",
+            "thumbnail": "https://i.ytimg.com/vi/liFyhzZl9uw/mqdefault.jpg"
+        },
+        {
+            "title": "Java Collections Framework | Java Placement Course",
+            "videoId": "VphowcSkBX4",
+            "likes": "12823",
+            "description": "Hey Coders, we are beginning to dive into DSA & I hope we'll all emerge as winners. Keep up the hard work\ud83d\udd25\nSlides of this Lecture: https://drive.google.com/file/d/1Vde0ztULzoBZtdCflLHGi7dMMtTM9Oi8/view?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "667574",
+            "thumbnail": "https://i.ytimg.com/vi/VphowcSkBX4/mqdefault.jpg"
+        },
+        {
+            "title": "Introduction to Linked List | Data Structures & Algorithms | Java Placement Course",
+            "videoId": "oAja8-Ulz6o",
+            "likes": "24631",
+            "description": "Skip to Linked List Direct Implementation - 41:01 (Don't skip if you want to understand Linked List in Detail)\n16:20 - Insert in a Linked List (First & Last)\n26:50 - Display/Print a Linked List\n30:50 - Delete in a Linked List (First & Last)\n38:41 - Size of a Linked List\n41:01 - LinkedList class (Collections Framework)\n\nNotes to the Lecture : https://docs.google.com/document/d/1ysYfkEEdeCRf1j8nGRvLCuPpEtN58Z51iMzgXB7pYIE/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "1510758",
+            "thumbnail": "https://i.ytimg.com/vi/oAja8-Ulz6o/mqdefault.jpg"
+        },
+        {
+            "title": "How to Reverse a Linked List? | Iterative + Recursive | Java Placement Course",
+            "videoId": "t7YaoQOFXzk",
+            "likes": "5915",
+            "description": "01:24 - Iterative\n12:50 - Recursive\nNotes & Questions - https://docs.google.com/document/d/1cyibFkWUicpLPUfCERD5usxkb2QlvGcpU6kMjHgJpCY/edit?usp=sharing\n \n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "393011",
+            "thumbnail": "https://i.ytimg.com/vi/t7YaoQOFXzk/mqdefault.jpg"
+        },
+        {
+            "title": "Most IMPORTANT Linked List Questions for Placements | Java Full Course",
+            "videoId": "cL4gHVuFOvk",
+            "likes": "5519",
+            "description": "Question 1 - 01:43\nQuestion 2 - 13:13\nQuestion 3 - 28:36\nNotes  : https://docs.google.com/document/d/1gZ40CS3b2Lzm1c2o82NKJTmk__M6UTQMucS9bmcnfAQ/edit?usp=sharing\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing\nNotes of this Lecture:",
+            "views": "324903",
+            "thumbnail": "https://i.ytimg.com/vi/cL4gHVuFOvk/mqdefault.jpg"
+        },
+        {
+            "title": "Stack Data Structure in One Video | Java Placement Course",
+            "videoId": "7m1DMYAbdiY",
+            "likes": "12152",
+            "description": "Code at : https://github.com/shradha-khapra/ApnaCollege-Java/tree/main/Stack\n\nTimeStamps : \n Start - 00:00\n Stack Introduction - 01:12\n Stack using Linked List - 10:15\n Stack using ArrayList - 18:30\n Stack using Collection Framework - 24:00\n Question1 (Push at Bottom of Stack) - 25:10\n Question2 (Reverse a Stack) - 31:22\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "737907",
+            "thumbnail": "https://i.ytimg.com/vi/7m1DMYAbdiY/mqdefault.jpg"
+        },
+        {
+            "title": "Complete Queue Data Structure | in One Shot | Java Placement Course",
+            "videoId": "va_6RmSrKCg",
+            "likes": "9062",
+            "description": "Notes : https://docs.google.com/document/d/17MvApbQOalLXi2jfXVGfTQVmbyn4LlTuuANkMXuuvOw/edit?usp=sharing\n\nTimeStamps : \nStart - 00:00 \nIntroduction - 00:12\nOperations - 03:26\nQueue using Array - 05:30\nCircular Queue using Array - 16:00\nQueue using Linked List - 27:00\nQueue using Collection Framework - 33:49\nQuestion (Queue using 2 Stacks) - 37:00\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "556329",
+            "thumbnail": "https://i.ytimg.com/vi/va_6RmSrKCg/mqdefault.jpg"
+        },
+        {
+            "title": "Binary Tree in Data Structures | All about Binary Tree | DSA Course",
+            "videoId": "-DzowlcaUmE",
+            "likes": "25106",
+            "description": "Notes of this Lecture: https://docs.google.com/document/d/1HDae036EEJLQrMItq6pXGYvGRPpntwIEjhmROeW3EvA/edit?usp=sharing\n\n\ud83d\udd34 Alpha Placement Course - https://bit.ly/3oqidsd\n\nTopics :\u00a0\n00:00:13 - Introduction to Trees\n00:04:00 - Binary Trees\n00:08:56 - Quiz Question \n00:11:37 - Build Tree (from Preorder)\n00:18:30 - Preorder Traversal\n00:24:20 - Inorder Traversal\n00:27:38 - Postorder Traversal\n00:30:40 - Level Order Traversal\n00:40:52 - Count of Nodes\n00:46:45 - Sum of Nodes\n00:49:54 - Height of Tree\n00:54:02 - Diameter of Tree (Approach 1)\n01:03:30 - Diameter of Tree (Approach 2)\n01:10:41 - Subtree of another Tree\n01:20:29 - Homework Problem Hint\n\n\ud83d\udd25Java Placement Course : https://www.youtube.com/watch?v=yRpLlJmRo2w&list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop\n\ud83d\udd25Complete C++ Placement Course (Data Structures+Algorithm) :https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ\n\ud83d\udd25Telegram: https://t.me/apnikakshaofficial\n\ud83d\udd25Instagram: https://www.instagram.com/dhattarwalaman/\n\nMy YouTube Gear \ud83d\ude09: https://docs.google.com/document/d/1pyTJVmed-rHFXNqQodOTYr7z-EhH37s8pvtYpR0vMR4/edit?usp=sharing",
+            "views": "1594670",
+            "thumbnail": "https://i.ytimg.com/vi/-DzowlcaUmE/mqdefault.jpg"
+        },
+        {
+            "title": "Binary Search Trees | BST in One Video | Java Placement Course | Data Structures & Algorithms",
+            "videoId": "qAeitQWjNNg",
+            "likes": "8520",
+            "description": "\ud83d\udd34 Alpha Placement Batch - https://bit.ly/3oqidsd\n\n\ud83d\udd25 Guaranteed DSA Placement Sheet : https://bit.ly/DSASheet\n\ud83d\udd25 Java Placement Course(with DSA) : https://bit.ly/JavaPlaylistComplete\n\ud83d\udd25 Complete C Course : https://bit.ly/FullTutorialC\n\ud83d\udd25 C++ Placement Course (DSA) : https://bit.ly/CppPlaylistComplete\n\ud83d\udd25 Telegram: https://bit.ly/ApnaCollegeTelegram",
+            "views": "485709",
+            "thumbnail": "https://i.ytimg.com/vi/qAeitQWjNNg/mqdefault.jpg"
+        },
+        {
+            "title": "HashSet in Java | Hashing | Java Placement Course | Data Structures & Algorithms",
+            "videoId": "eJiGN1h8XzM",
+            "likes": "7314",
+            "description": "Notes - https://docs.google.com/document/d/1e_JQXvnEwq5Gp_JGHpny7f6EVb5lecjncIydU7twPao/edit?usp=sharing\n\n\ud83d\udd25 Guaranteed Placement Sheet : https://bit.ly/DSASheet\n\ud83d\udd25 Java Placement Course(with DSA) : https://bit.ly/JavaPlaylistComplete\n\ud83d\udd25 Complete C Course : https://bit.ly/FullTutorialC\n\ud83d\udd25 C++ Placement Course (DSA) : https://bit.ly/CppPlaylistComplete\n\ud83d\udd25 Telegram: https://bit.ly/ApnaCollegeTelegram",
+            "views": "359893",
+            "thumbnail": "https://i.ytimg.com/vi/eJiGN1h8XzM/mqdefault.jpg"
+        },
+        {
+            "title": "HashMap in Java | Hashing | Java Placement Course | Data Structures & Algorithms",
+            "videoId": "WeF3_nk-UqY",
+            "likes": "11506",
+            "description": "Notes : https://docs.google.com/document/d/1zadjci7AJqGgPFkn0d_FV9LIX6blVJKZCfneYM6F2mc/edit?usp=sharing\n\n\ud83d\udccc Details about the Alpha Placement Batch : \n- Complete Java Language\n- Complete Data Structures & Algorithms\n- Live Mentorship Sessions \n- 300+ Solved Coding Questions  \n- 400+ recorded Topic Videos \n- Live Resume Creation\n- Live Interview Preparation\n- from Basics to Pro Learners\n- Lectures will be uploaded on alternate days\n- Course will start from 2nd August, 2022\n- Course will take 2.5 months to complete\n- Access to the course is for 1 year.\n____________________________________________________________\nJoin the community : https://bit.ly/ApnaCollegeTelegram\n\ud83d\udd25 Guaranteed Placement Sheet : https://bit.ly/DSASheet\n\ud83d\udd25 Java Placement Course(with DSA) : https://bit.ly/JavaPlaylistComplete\n\ud83d\udd25 Complete C Course : https://bit.ly/FullTutorialC\n\ud83d\udd25 C++ Placement Course (DSA) : https://bit.ly/CppPlaylistComplete",
+            "views": "555173",
+            "thumbnail": "https://i.ytimg.com/vi/WeF3_nk-UqY/mqdefault.jpg"
+        },
+        {
+            "title": "HashMap Implementation in Java | HashMap | Java with DSA",
+            "videoId": "KDZ_IXvpMG4",
+            "likes": "5646",
+            "description": "Notes - https://drive.google.com/file/d/1A02kfELqSlb6Dymb8fCa3ap1XsfOB5Om/view?usp=share_link\nAre you worried about placements/internships? Want to prepare for companies like Microsoft, Amazon & Google? Join ALPHA.\n\ud83d\udd25Alpha 2.0 Placement Batch (Java+DSA)  : https://www.apnacollege.in/course/alpha-batch-2\nLink for International Students:  https://buy.stripe.com/9AQ4gs87a2Bo4cE8wz\nDirect RazorPay Link for Alpha Batch 2 : https://rzp.io/l/alpha-batch-2\n--------------------\nJoin the Apni Community\ud83d\udd25 : https://telegram.me/+k4rdgTPwmm5kMGVl\n-----------------\n\ud83d\udd25 Java Placement Course(with DSA) : https://bit.ly/JavaPlaylistComplete\n\ud83d\udd25 Complete C Course : https://bit.ly/FullTutorialC\n\ud83d\udd25 C++ Placement Course (DSA) : https://bit.ly/CppPlaylistComplete\n\ud83d\udd25 Guaranteed Placement Sheet : https://bit.ly/DSASheet\n\nWant to Work with us? Apply for Job here : https://bit.ly/workWithUs",
+            "views": "295714",
+            "thumbnail": "https://i.ytimg.com/vi/KDZ_IXvpMG4/mqdefault.jpg"
+        },
+        {
+            "title": "Hashing in Java | One Shot | 5 Best Questions",
+            "videoId": "rTRcntABSZ4",
+            "likes": "3151",
+            "description": "Are you worried about placements/internships? Want to prepare for companies like Microsoft, Amazon & Google? Join ALPHA.\n\ud83d\udd25Alpha 2.0 Placement Batch (Java+DSA)  : https://www.apnacollege.in/course/alpha-batch-2\nLink for International Students:  https://buy.stripe.com/9AQ4gs87a2Bo4cE8wz\nDirect RazorPay Link for Alpha Batch 2 : https://rzp.io/l/alpha-batch-2\n--------------------\nJoin the Apni Community\ud83d\udd25 : https://telegram.me/+k4rdgTPwmm5kMGVl\n-----------------\n\ud83d\udd25 Java Placement Course(with DSA) : https://bit.ly/JavaPlaylistComplete\n\ud83d\udd25 Complete C Course : https://bit.ly/FullTutorialC\n\ud83d\udd25 C++ Placement Course (DSA) : https://bit.ly/CppPlaylistComplete\n\ud83d\udd25 Guaranteed Placement Sheet : https://bit.ly/DSASheet\n\nWant to Work with us? Apply for Job here : https://bit.ly/workWithUs",
+            "views": "203910",
+            "thumbnail": "https://i.ytimg.com/vi/rTRcntABSZ4/mqdefault.jpg"
+        },
+        {
+            "title": "Trie Data Structure | Java DSA Course",
+            "videoId": "m9zawMC6QAI",
+            "likes": "3862",
+            "description": "Notes : https://docs.google.com/document/d/1ZhnyO0i24_MG4jrLGj5cIKVFIwwM4Q_7hWgX1T9L8kQ/edit?usp=sharing\n\nAre you worried about placements/internships? Join ALPHA.\n\ud83d\udd25Alpha 2.0 Placement Batch (Java+DSA)  : https://www.apnacollege.in/course/alpha-batch-2\nLink for International Students:  https://buy.stripe.com/9AQ4gs87a2Bo4cE8wz\nDirect RazorPay Link for Alpha Batch 2 : https://rzp.io/l/alpha-batch-2\n--------------------\nJoin the Apni Community\ud83d\udd25 : https://telegram.me/+k4rdgTPwmm5kMGVl\n-----------------\n\ud83d\udd25 Java Placement Course(with DSA) : https://bit.ly/JavaPlaylistComplete\n\ud83d\udd25 Complete C Course : https://bit.ly/FullTutorialC\n\ud83d\udd25 C++ Placement Course (DSA) : https://bit.ly/CppPlaylistComplete\n\ud83d\udd25 Guaranteed Placement Sheet : https://bit.ly/DSASheet\n\nWant to Work with us? Apply for Job here : https://bit.ly/workWithUs",
+            "views": "230795",
+            "thumbnail": "https://i.ytimg.com/vi/m9zawMC6QAI/mqdefault.jpg"
+        },
+        {
+            "title": "Graph Data Structure | Tutorial for Graphs in Data Structures",
+            "videoId": "59fUtYYz7ZU",
+            "likes": "14388",
+            "description": "FREE Notes + Assignment : https://drive.google.com/drive/folders/1wfNTKinBAV6CCxaI5lfSnnRFAYpy0uEl?usp=share_link\n\nAlpha 3.0 Placement Batch (Java+DSA)  : https://www.apnacollege.in/course/alpha-batch-3\n-----------------\nFor Outside India :  https://buy.stripe.com/bIY9AMcnq2Bo24waEL\n\nNote : Study Cycle Detection in (Undirected Graph) 02:57:14 before Directed Graph\nTimestamps \n0:00 Intro\n1:24 - Basics of Graph\n16:52 - Creating a Graph (4 ways)\n01:03:45 - BFS\n01:30:51 - DFS\n01:44:57 - All Paths Qs\n02:11:47 - Assignment 1\n02:12:46 - Cycle Detection (Directed Graph)\n02:57:14 - Cycle Detection (Undirected Graph)\n02:34:22 - Topological Sort\n03:16:25 - Assignment 2\n03:16:28 - Dijkstra's Algorithm\n04:00:31 - BellmanFord Algorithm\n04:23:06 - Assignment 3\n04:23:28 - What is MST?\n04:29:02 - Prim's Algorithm\n04:53:24 - Kosaraju's Algorithm (SCC)\n05:21:20 - Assignment 4\n05:21:23 - Bridge in Graph (Tarjan's Algorithm)\n05:53:57 - Articulation Point in Graph (Tarjan's Algorithm)\n06:43:59 - Assignment 5\n-----------------\nJoin us on Telegram\ud83d\udd25 : https://telegram.me/+k4rdgTPwmm5kMGVl",
+            "views": "880451",
+            "thumbnail": "https://i.ytimg.com/vi/59fUtYYz7ZU/mqdefault.jpg"
+        }
+    ]
+}
